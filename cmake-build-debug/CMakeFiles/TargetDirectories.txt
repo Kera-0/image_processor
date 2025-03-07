@@ -1,0 +1,3 @@
+C:/Users/fan1g/OneDrive/Рабочий стол/image_processor/cmake-build-debug/CMakeFiles/image_processor.dir
+C:/Users/fan1g/OneDrive/Рабочий стол/image_processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fan1g/OneDrive/Рабочий стол/image_processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

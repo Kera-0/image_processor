@@ -1,0 +1,19 @@
+
+add_executable(
+    image_processor
+        main.cpp
+        Reading_and_writing/Reader.h
+        Image/Color.h
+        Image/Image.h
+        Reading_and_writing/Reader.cpp
+        Reading_and_writing/Utils.h
+        Reading_and_writing/Writer.h
+        Image/Image.cpp
+        Reading_and_writing/Write.cpp
+        Parsing/Parse.cpp
+        Parsing/Parse.h
+        Filters/filter.cpp
+        Filters/filter.h
+        Image/Color.cpp
+        main.h
+)
